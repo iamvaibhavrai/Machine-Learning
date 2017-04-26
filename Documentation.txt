@@ -1,0 +1,8 @@
+Definition : Machine learning is the branch of computer science that provides computer to learn from previous cases. It is useful in scenarios where we can not explicitly code a program for some specific function.
+
+Language Used : Python
+Version : 3.5
+
+Libraries Used : Numpy, SciPy, SciKit_Learn
+
+For queries and suggestion, leave a comment or mail me at iamvaibhavrai@gmail.com
